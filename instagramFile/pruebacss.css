@@ -1,0 +1,28 @@
+body{background-color: white}
+
+.orientacionR { float: right; }
+.orientacionL { float: left; }
+.EstiloTope {
+    vertical-align: top;
+}
+
+.estiloTitulo {
+    margin-top: 200px;
+}
+.EstiloPie {
+    vertical-align: middle;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.frame {
+    height: 25px;      /* equals max image height */
+    line-height: 25px;
+    width: 160px;
+    border: 1px solid red;
+
+    text-align: center; margin: 1em 0;
+}
+
